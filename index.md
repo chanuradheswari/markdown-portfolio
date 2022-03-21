@@ -1,6 +1,6 @@
----
+#includes/01-chanuradheswari.md
 
-#layout: welcome to first slide
+layout: welcome to first slide
 ---
 
 {% include 01-name.md %}
