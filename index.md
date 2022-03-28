@@ -1,3 +1,6 @@
+---
+Layout: default
+---
 
 #includes/01-chanuradheswari.md
 
