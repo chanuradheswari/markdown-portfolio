@@ -1,1 +1,3 @@
-# [includes/chanuradheswari.md]
+layout : welcome to your first slide
+
+#includes/chanuradheswari.md
